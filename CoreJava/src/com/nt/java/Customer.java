@@ -21,6 +21,9 @@ public class Customer {
 		return "Customer [prodid=" + prodid + ", name=" + name + "]";
 	}
 	
-	
+	private void sys() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
