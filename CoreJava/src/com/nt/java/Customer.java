@@ -25,5 +25,8 @@ public class Customer {
 		// TODO Auto-generated method stub
 		System.out.println();
 	}
-
+	
+	public static void main(String args[]) {
+		Syst);
+	}
 }
