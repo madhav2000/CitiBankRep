@@ -24,9 +24,14 @@ public class Customer {
 	private void sys() {
 		// TODO Auto-generated method stub
 		System.out.println();
+<<<<<<< HEAD
 	}
 	
 	public static void main(String args[]) {
 		System.out.println("Hi");
 	}
+=======
+	}//1234
+
+>>>>>>> stash
 }
