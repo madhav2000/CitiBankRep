@@ -23,7 +23,7 @@ public class Customer {
 	
 	private void sys() {
 		// TODO Auto-generated method stub
-
+		System.out.println();
 	}
 
 }
